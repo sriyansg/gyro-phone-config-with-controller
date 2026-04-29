@@ -1,0 +1,30 @@
+# Local SSL certificates
+*.pem
+certs/cert.pem
+certs/key.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+setup_android.py
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Android/Gradle Build Files
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+android_udp_app/.gradle/
+android_udp_app/build/
+android_udp_app/app/build/
+android_udp_app/local.properties
+
+# OS Specific
+.DS_Store
+Thumbs.db
