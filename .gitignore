@@ -28,3 +28,7 @@ android_udp_app/local.properties
 # OS Specific
 .DS_Store
 Thumbs.db
+
+# Archives
+*.zip
+gradle.zip
